@@ -1,0 +1,9 @@
+C:\Users\adria\Documents\Visual Studio Code\Projects\Platform\Platform.Common\bin\Debug\netstandard2.0\Platform.Common.deps.json
+C:\Users\adria\Documents\Visual Studio Code\Projects\Platform\Platform.Common\bin\Debug\netstandard2.0\Platform.Common.dll
+C:\Users\adria\Documents\Visual Studio Code\Projects\Platform\Platform.Common\bin\Debug\netstandard2.0\Platform.Common.pdb
+C:\Users\adria\Documents\Visual Studio Code\Projects\Platform\Platform.Common\obj\Debug\netstandard2.0\Platform.Common.csprojAssemblyReference.cache
+C:\Users\adria\Documents\Visual Studio Code\Projects\Platform\Platform.Common\obj\Debug\netstandard2.0\Platform.Common.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio Code\Projects\Platform\Platform.Common\obj\Debug\netstandard2.0\Platform.Common.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Visual Studio Code\Projects\Platform\Platform.Common\obj\Debug\netstandard2.0\Platform.Common.AssemblyInfo.cs
+C:\Users\adria\Documents\Visual Studio Code\Projects\Platform\Platform.Common\obj\Debug\netstandard2.0\Platform.Common.dll
+C:\Users\adria\Documents\Visual Studio Code\Projects\Platform\Platform.Common\obj\Debug\netstandard2.0\Platform.Common.pdb

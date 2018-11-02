@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="2.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Platform.Common\Platform.Common.csproj" />
+    <ProjectReference Include="..\Platform.Domain.Common\Platform.Domain.Common.csproj" />
+    <ProjectReference Include="..\Platform.Domain.Model\Platform.Domain.Model.csproj" />
+  </ItemGroup>
+
+</Project>
