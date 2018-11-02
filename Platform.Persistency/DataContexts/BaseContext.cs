@@ -14,6 +14,16 @@ namespace Platform.Persistency.DataContexts
 
         }
 
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            OnCreating(builder);
+        }
+
+        protected virtual void OnCreating(ModelBuilder builder) 
+        {
+
+        }        
+
         public int SaveChages() 
         {
             return 0;
